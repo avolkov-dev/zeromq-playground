@@ -3,6 +3,7 @@
 ```bash
  brew install node
  npm install --global yarn
+ yarn
 ```
 
 ## Run subscriber
