@@ -11,5 +11,5 @@ sub.on('message', function(topic, message) {
 });
 
 setInterval(function(){
-    console.log('.')
+    console.log('. sub')
 }, 500);
